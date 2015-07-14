@@ -1,0 +1,1 @@
+Repository for storing all my completed codewars challenges for future reference.
